@@ -1,0 +1,23 @@
+{
+  "name": "dnd-character-builder-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkRRyan/dnd-character-builder-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkRRyan/dnd-character-builder-backend/issues"
+  },
+  "homepage": "https://github.com/MarkRRyan/dnd-character-builder-backend#readme",
+  "dependencies": {
+    "mongoose": "^6.8.4"
+  }
+}
